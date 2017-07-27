@@ -1,0 +1,31 @@
+{
+    "name": "test-gereratee",
+    "version": "1.1.0",
+    "description": "HubSpot Code Exercise",
+    "author": "JL",
+    "license": "MIT License",
+    "keywords": "gulp",
+    "devDependencies": {
+        "browser-sync": "*",
+        "es6-promise": "*",
+        "gulp": "*",
+        "gulp-autoprefixer": "*",
+        "gulp-browserify": "*",
+        "gulp-cache": "*",
+        "gulp-clean-css": "*",
+        "gulp-concat": "*",
+        "gulp-csscomb": "*",
+        "gulp-csslint": "*",
+        "gulp-ejs": "*",
+        "gulp-imagemin": "*",
+        "gulp-jshint": "*",
+        "gulp-merge-media-queries": "*",
+        "gulp-minify-html": "*",
+        "gulp-plumber": "*",
+        "gulp-rename": "*",
+        "gulp-sass": "*",
+        "gulp-sourcemaps": "*",
+        "gulp-uglify": "*",
+        "jshint": "^2.9.5"
+    }
+}
